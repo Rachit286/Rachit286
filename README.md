@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rachit-chaudhari-911a79265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Rachit Chaudhari">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQEfeQ8y2LHKFQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710628830330?e=2147483647&v=beta&t=YtvyphnY4mPIRHQvAY5gAahqmmu5Jd9gz2WY0QyT0L0" alt="Rachit Chaudhari">
       </a>
     </td>
    <td align="center">
