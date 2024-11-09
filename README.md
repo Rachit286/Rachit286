@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://www.instagram.com/rachit.28?igsh=Njhsc3B4YW00ZmF4" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Rachit Chaudhari">
+        <img src="https://instagram.fpnq13-1.fna.fbcdn.net/v/t51.2885-19/463644675_518576237741463_5804427631930087605_n.jpg?stp=dst-jpg_e0_s150x150&_nc_ht=instagram.fpnq13-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ECy_SNZqNVMQ7kNvgF3vHEy&_nc_gid=59e423f2709a47b48a47fb72871be292&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBlmNXTjMtlvH1dX5mNq6RbRQx4l_QcyQoBvB85G4vxsw&oe=6735194F&_nc_sid=8b3546" alt="Rachit Chaudhari">
       </a>
     </td>
     <td align="center">
